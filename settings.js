@@ -2,21 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "THARU BOT" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "THARU BOT" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
+global.packname = "THARU BOT 🌼" // sticker watermark packname //
 global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
+             global.ownernumber = ['94720670378']   // Owner number //
+             global.vcardowner = ['94720670378']   // vcard owner number //
              global.ownername = "3.69_Pika"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
